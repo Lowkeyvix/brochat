@@ -71,4 +71,10 @@
   input:focus, button:focus {
     outline: none;
   }
-  
+  .deleteBtn {
+  background: none;
+  border: none;
+  color: red;
+  margin-left: 10px;
+  cursor: pointer;
+}
